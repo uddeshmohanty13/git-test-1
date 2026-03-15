@@ -1,5 +1,12 @@
+<<<<<<< Updated upstream
 ##Error###
 eixed it
+=======
+Feature
+//some login code with OTP
+//100%
+####This Above lines will be stored in a hidden git area + temp#######
+>>>>>>> Stashed changes
 BTM
 Bangaluru
 Welcome
